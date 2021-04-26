@@ -1,0 +1,11 @@
+package com.git;
+
+/**
+ * @author Arbot
+ * @create 2021-04-26 19:36
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
