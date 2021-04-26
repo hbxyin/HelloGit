@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("update 1");
         System.out.println("new branche");
         System.out.println("branche add");
+        System.out.println("main add");
     }
 }
